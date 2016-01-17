@@ -148,6 +148,8 @@ SENTRY_WEB_OPTIONS = {
     'workers': 3,
 }
 
+ALLOWED_HOSTS = ['jaspaul-sentry.herokuapp.com', 'sentry.notimedeveloper.com']
+
 ###############
 # Mail Server #
 ###############
